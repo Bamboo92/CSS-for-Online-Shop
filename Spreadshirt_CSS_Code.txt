@@ -1,0 +1,133 @@
+.body {
+  background-color: #141414;
+  color: #00ee00
+}
+.customPageBackground {
+  background-color: #141414;
+  color: #00ee00
+}
+.SprdMain {
+  background-color: #141414
+}
+#sprd-header-container {
+  background-color: #141414;
+  color: #00ee00
+}
+.sprd-header.sprd-bg-m1.sprd-c-s3 {
+  background-color: #141414;
+  color: #00ee00
+}
+.sprd--standalone {
+  background-color: #141414;
+  color: #00ee00
+}
+#sprd-navigation {
+  background-color: #000000
+}
+.sprd-nav-link.customHighlight.customFilterItem.sprd-c-s3.sprd-bc-m2 {
+  color: #00ee00
+}
+#sprd-content {
+  color: #00dd00
+}
+#sprd-startpage-teaser {
+  color: #000000
+}
+.sprd-startpage-about-us__textsection.sprd-bg-m3 {
+  background-color: #141414
+}
+.sprd__text {
+  color: #adff83
+}
+.sprd-startpage-trust-elements__text {
+  color: #adff83
+}
+.sprd-info-footer.sprd-bg-m1.sprd-c-s3.sprd-lbc-m1 {
+  background-color: #444444;
+  color: #ff9900
+}
+.sprd-service-footer.sprd-bg-m1.sprd-c-s3 {
+  background-color: #444444;
+  color: #ff9900
+}
+#buttonSpreadshirt {
+  background-color: #ff9900
+}
+.sprd-promo-header.sprd-bg-m2.sprd-c-cta {
+  background-color: #141414;
+  color: #00aa00
+}
+.sprd-promo-description.sprd-bg-m2 {
+  background-color: #141414;
+  color: #00aa00
+}
+.sprd-startpage-teaser__content.sprd-bg-m3::before {
+  background: #eeffee;
+  opacity: 0.8
+}
+.sprd-breadcrumb__item.sprd-c-s2 {
+  color: #eeeeee
+}
+.sprd-button-secondary-cta-ghost.sprd-detail-sizes__size.sprd-c-s2.sprd-lbc-s2 {
+  color: #ff9900
+}
+#sprd-icon-edit-design {
+  color: #ff2222
+}
+.sprd-detail-images__view--edit-icon.sprd-c-s2 {
+  color: #ff9900
+}
+.sprd-customer-reviews__sort-btn.sprd-button-secondary-cta-ghost.sprd-c-s2.sprd-lbc-s2 {
+  color: #ff9900
+}
+.sprd-customer-reviews__icon {
+  color: #ffff00
+}
+.sprd-detail-social__share-btn-icon {
+  color: #009900
+}
+.sprd-detail-info__rating-icon {
+  color: #ffff00
+}
+.sprd-designer__header.sprd-bg-m1.sprd-c-s3 {
+  background-color: #000000;
+  color: #00ff00
+}
+.sprd-department-filter__departments.sprd-bg-m1.sprd-c-s3 {
+  background-color: #000000
+}
+.sprd-department-filter__menu.customFilter.sprd-bg-m1.sprd-bc-m3 {
+  background-color: #000000
+}
+.sprd-department-filter__entry.customSubfilterItem.sprd-c-s3 {
+  color: #ffffff
+}
+.sprd-product-list-item__sizes.sprd-bg-m3 {
+  background: #000000
+}
+.sprd-basket-checkout.sprd-bg-m3.sprd-lbc-m3.sprd-basket-checkout--stuck {
+  background: #222222;
+  color: #ff9900
+}
+.sprd-email-image {
+  background: #ff9900
+}
+#sprd-startpage-designs-with-products {
+  background: #141414
+}
+#sprd-content {
+  background: #141414
+}
+#sprd-container {
+  background: #141414
+}
+.sprd-listpage__title.sprd__headline {
+  color: #eeeeee
+}
+.sprd-filterpane.sprd-lbc-s2 {
+  color: #eeeeee
+}
+.sprd-social-bar__icon {
+  color: #ffffff;
+}
+#impressumSpreadshirt { }
